@@ -1,5 +1,5 @@
 
-#Predicting House Prices with Linear Regression
+# Predicting House Prices with Linear Regression
 This project aims to use linear regression, a statistical method that models the relationship between a dependent variable and one or more independent variables, to predict the selling price of a house based on various factors.
 #### The project involves the following steps:
 - Data collection and cleaning: The data for this project comes from various sources, such as Kaggle
